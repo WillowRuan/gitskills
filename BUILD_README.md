@@ -17,7 +17,7 @@ https://swift.org/download/#releases
 ### Steps to run XCode project
 
 
-![](Screenshot/FolderReminder.png =100x100)
+![](./Screenshot/FolderReminder.png =100x100)
 
 
 
