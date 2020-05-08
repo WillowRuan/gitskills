@@ -16,7 +16,7 @@ https://swift.org/download/#releases
 
 ### Steps to run XCode project
 
-
+1. Open *Reminder.xcodeproj* as image below
 ![](./Screenshot/FolderReminder.png)
 
 
