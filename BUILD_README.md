@@ -17,7 +17,7 @@ https://swift.org/download/#releases
 ### Steps to run XCode project
 
 
-/Users/tingting/Desktop/MISL_SOC_Git/MISL-SOC-20-Tingting/Screenshot/FolderReminder.png
+![](Screenshot/FolderReminder.png)
 
 
 
