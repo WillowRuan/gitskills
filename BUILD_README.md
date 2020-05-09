@@ -16,24 +16,24 @@ https://swift.org/download/#releases
 
 ### Steps to run XCode project
 
-1. Open *Reminder.xcodeproj* as image below
+1. Open ***Reminder.xcodeproj*** as image below
 ![](./Screenshot/FolderReminder.png)
 
+XCode then will open the project
 
+2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button
+![](./Screenshot/RunReminder.png)
 
-1. 下载方式：
-网站是 ： https://swift.org/download/#releases
-也可以在App Store直接搜索XCode下载
+3. Wait untill the simulator pop up, it might take few minutes, then you can see the homepage of Reminder
+![](./Screenshot/Simulator_Reminder.png)
 
-2. 下载的版本是 ： 最新版 11.4.1
+4. On the main page, in the upper left is a test button which is created to test whether the notification is working properly, it will be deleted later.
 
-3. 下载安装完成后打开XCode
+5. In the upper right corner is the **+** button to add a new reminder. Click on it to enter the interface to add a new event.
 
-4. 在github上克隆下来整个repository， 然后进入到想要打开的project文件夹， 点击带有.project的文件
-or 在github上选择想要下载的文档直接下载后在XCode中打开
+6. On the add event page, it has *title*, *body* and *time* as image shown below, you can have a try to edit all of them.
+![](./Screenshot/Reminder_Add.png)
 
-5. 点击XCode左上角的运行按钮
+7. Back to the home page, it shows all the events as image below.
+![](./Screenshot/Reminder_Events.png)
 
-6. 等待几秒后出现simulator
-
-7. 显示Reminder主页面， 左上角为创建的一个test按钮，用来测试notification是否正常运作，之后会删掉。 右上角为添加按钮，添加新的提醒，点击进入到添加界面。上方为title， 中间为body，下面是选择提醒时间。 返回到主页面，显示刚刚添加的内容和提醒时间。
