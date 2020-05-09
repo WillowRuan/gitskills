@@ -10,7 +10,7 @@ https://swift.org/download/#releases
 2. Follow the steps to install the XCode into application
 3. Create a new folder
 4. Open your terminal -> go the the folder
-5. using command to clone the project: " git clone git@github.com:jq5/MISL-SOC-20-Tingting.git "
+5. using command to clone the project: ```git clone git@github.com:jq5/MISL-SOC-20-Tingting.git```
 6. After clone, open the folder name "ProjectDemo"
 7. Below will use project "Reminder" as an example to explain how to run a project
 
