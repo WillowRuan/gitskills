@@ -16,7 +16,7 @@ https://swift.org/download/#releases
 ### Steps to run XCode project
 
 1. Open ***SearchBarTest.xcodeproj*** as image below, XCode then will open the project
-![](./Screenshot/FolderSearchBarTest.png)
+![](./Screenshot/Folder_SearchBarTest.png)
 
 2.  On the top left corner, select ***iPhone Xr***, then click the run button
 ![](./Screenshot/RunSearchBarTest.png)
@@ -29,3 +29,7 @@ https://swift.org/download/#releases
 
 5. When the search icon is clicked, the search box is displayed and can enter the content what you want to search. Click cancel to cancel the current action
 ![](./Screenshot/Search_SearchBarTest.png)
+
+### Reference
+
+https://www.youtube.com/watch?v=m56ff75tZyI
