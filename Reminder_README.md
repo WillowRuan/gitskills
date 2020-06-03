@@ -19,25 +19,25 @@ https://swift.org/download/#releases
 ### Steps to run XCode project
 
 1. Open ***Reminder.xcodeproj*** as image below. XCode then will open the project.
-![](./Screenshot/FolderReminder.png)
+![](./Screenshot/Reminder/FolderReminder.png)
 
 2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button.
-![](./Screenshot/RunReminder.png)
+![](./Screenshot/Reminder/RunReminder.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage of Reminder.
-![](./Screenshot/Simulator_Reminder.png)
+![](./Screenshot/Reminder/Simulator_Reminder.png)
 
 4. On the main page, in the upper left is a test button which is created to test whether the notification is working properly, it will be deleted later.
-![](./Screenshot/Reminder_test.png)
+![](./Screenshot/Reminder/Reminder_test.png)
 
 5. In the upper right corner is the **+** button to add a new reminder. Click on it to enter the interface to add a new event.
-![](./Screenshot/Reminder_ClickAdd.png)
+![](./Screenshot/Reminder/Reminder_ClickAdd.png)
 
 6. On the add event page, it has *title*, *body* and *time* as image shown below, you can have a try to edit all of them.
-![](./Screenshot/Reminder_Add.png)
+![](./Screenshot/Reminder/Reminder_Add.png)
 
 7. Back to the home page, it shows all the events as image below.
-![](./Screenshot/Reminder_Events.png)
+![](./Screenshot/Reminder/Reminder_Events.png)
 
 ### Reference
 

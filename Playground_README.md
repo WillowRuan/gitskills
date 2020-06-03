@@ -1,3 +1,5 @@
+## Exercises following the tutorials
+
 _The link to download the XCode/Swift_
 
 https://swift.org/download/#releases
@@ -18,10 +20,10 @@ or from App Store
 Below will use playground "Emoji" as an example to explain how to run a playground.
 
 1. Open ***Emoji.playground*** as image below. XCode then will open the playground.
-![](./Screenshot/FolderEmohi.png)
+![](./Screenshot/Playground/FolderEmoji.png)
 
 2. Click and run the playground.
-![](./Screenshot/RunEmoji.png)
+![](./Screenshot/Playground/RunEmoji.png)
 
 ### Reference
 

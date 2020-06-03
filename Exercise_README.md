@@ -1,3 +1,5 @@
+## Exercises following the tutorials
+
 _The link to download the XCode/Swift_
 
 https://swift.org/download/#releases
@@ -18,16 +20,16 @@ or from App Store
 Below will use project "HelloWorld" as an example to explain how to run a project.
 
 1. Open ***HelloWorld.xcodeproj*** as image below. XCode then will open the project.
-![](./Screenshot/FolderExercise.png)
+![](./Screenshot/Exercise/FolderExercise.png)
 
 2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button.
-![](./Screenshot/RunExercise.png)
+![](./Screenshot/Exercise/RunExercise.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage of HelloWorld.
-![](./Screenshot/Simulator_Exercise.png)
+![](./Screenshot/Exercise/Simulator_Exercise.png)
 
 4. Click on the orange position to display what is this expression.
-![](./Screenshot/Expression_Exercise.png)
+![](./Screenshot/Exercise/Expression_Exercise.png)
 
 ### Reference
 

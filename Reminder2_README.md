@@ -19,38 +19,39 @@ https://swift.org/download/#releases
 ### Steps to run XCode project
 
 1. Open ***Reminder2.xcodeproj*** as image below. XCode then will open the project.
-![](./Screenshot/FolderReminder2.png)
+![](./Screenshot/Reminder2/FolderReminder2.png)
 
 2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button.
-![](./Screenshot/RunReminder2.png)
+![](./Screenshot/Reminder2/RunReminder2.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage of Reminder.
-![](./Screenshot/Simulator_Reminder2.png)
+![](./Screenshot/Reminder2/Simulator_Reminder2.png)
 
 4. There is a **search bar** at the top of the main page, and you can search according to the input.
 
-5. There is an **edit** icon in the upper left corner of the homepage, which allows you to make batch changes or select multiple items to delete.
+5. There is an **edit** icon in the upper left corner of the homepage, which allows you to make batch changes or select multiple items to delete.(update that later)
 
 6. In the upper right corner is the **+** button to add a new reminder. Click on it to enter the interface to add a new event.
-![](./Screenshot/Search_Reminder2.png)
+![](./Screenshot/Reminder2/Search_Reminder2.png)
 
-6. On the add event page, it has *title*, *notes* and *time* as image shown below, you can have a try to edit all of them.
-![](./Screenshot/Add_Reminder2)
+7. On the add event page, it has *title*, *notes* and *time* as image shown below, you can have a try to edit all of them.
+![](./Screenshot/Reminder2/Add_Reminder2.png)
 
-7. Back to the homepage, it shows all the events as image below. Swipe the events to the left and can choose to delete it.
-![](./Screenshot/Detail_Reminder2)
-![](./Screenshot/Delete_Reminder2)
+8. Back to the homepage, it shows all the events as image below. Swipe the events to the left and can choose to delete it.
+![](./Screenshot/Reminder2/Detail_Reminder2.png)
 
-8. Click the added events on the homepage to enter the interface to shown events details.
+![](./Screenshot/Reminder2/Delete_Reminder2.png)
 
-9. There is an **edit** icon in the upper right corner of the details page, click it to enter the interface to edit events.
-![](./Screenshot/DetailPage_Reminder2)
+9. Click the added events on the homepage to enter the interface to shown events details.
 
-10. In the editing page can also has *title*, *notes* and *time*. Click **save** to jump back to the details page.
-![](./Screenshot/Edit_Reminder2)
+10. There is an **edit** icon in the upper right corner of the details page, click it to enter the interface to edit events.
+![](./Screenshot/Reminder2/DetailPage_Reminder2.png)
 
-11. You can receive the notification at the time you set.
-![](./Screenshot/Notification_Reminder2)
+11. In the editing page can also has *title*, *notes* and *time*. Click **save** to jump back to the details page.
+![](./Screenshot/Reminder2/Edit_Reminder2.png)
+
+12. You can receive the notification at the time you set.
+![](./Screenshot/Reminder2/Notification_Reminder2.png)
 
 
 ### Future Work
