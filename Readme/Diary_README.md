@@ -25,13 +25,13 @@ https://swift.org/download/#releases
 ![](../Screenshot/Reminder2/RunReminder2.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage, click the Diary button on the page.
-![](../Screenshot/Reminder2/ButtonDiary.png)
+![](../Screenshot/Diary/ButtonDiary.png)
 
 4. In the upper right corner is the **+** button to add a new reminder. Click on it to enter the interface to add a new event.
-![](../Screenshot/Reminder2/AddDiary.png)
+![](../Screenshot/Diary/AddDiary.png)
 
 5. On the add event page, it has *title*, *write diary* and *add iamge* as image shown below.
-![](../Screenshot/Reminder2/AddPageDiary.png)
+![](../Screenshot/Diary/AddPageDiary.png)
 
 ### Future Work
 
