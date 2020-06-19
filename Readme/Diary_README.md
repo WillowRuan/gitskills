@@ -41,4 +41,4 @@ https://swift.org/download/#releases
 
 ### Reference
 
-**1. https://www.youtube.com/watch?v=UYYEdtel5GQ**
+*1. https://www.youtube.com/watch?v=UYYEdtel5GQ*
