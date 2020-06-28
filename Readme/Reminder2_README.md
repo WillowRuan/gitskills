@@ -13,16 +13,16 @@ https://swift.org/download/#releases
 3. Create a new folder
 4. Open your terminal -> go the the folder
 5. using command to clone the project: ```git clone git@github.com:jq5/MISL-SOC-20-Tingting.git```
-6. After clone, open the folder name "ProjectDemo - Reminder2"
+6. After clone, open the folder name "ProjectDemo - MyProject"
 7. Below explain how to run project "Reminder2"
 
 ### Steps to run XCode project
 
-1. Open ***Reminder2.xcodeproj*** as image below. XCode then will open the project.
-![](../Screenshot/Reminder2/FolderReminder2.png)
+1. Open ***MyProject.xcworkspace*** as image below. XCode then will open the project.
+![](../Screenshot/Diary/FolderDiary.png)
 
 2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button.
-![](../Screenshot/Reminder2/RunReminder2.png)
+![](../Screenshot/Diary/RunDiary.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage, click the Reminder button on the page.
 ![](../Screenshot/Reminder2/HomeReminder2.png)
@@ -61,6 +61,7 @@ https://swift.org/download/#releases
 1. Add the cancel and edit functions on the Reminder home page **(Solved)**
 2. Advance notification function **(Solved)**
 3. Update CoreData **(Solved)**
+4. Update interface
 
 ### Reference
 
