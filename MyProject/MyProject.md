@@ -19,6 +19,7 @@ https://swift.org/download/#releases
 7. Below explain how to run this project
 
 ### Steps to run Reminder
+---
 
 1. Open ***MyProject.xcworkspace*** as image below. XCode then will open the project. (Make sure open the **Xcode workspace** instead of the project file when building your project)
 ![](../Screenshot/Diary/FolderDiary.png)
@@ -58,8 +59,9 @@ https://swift.org/download/#releases
 ![](../Screenshot/Reminder2/NotificationReminder2.png)
 
 ### Steps to run Diary
+---
 
-1. Click the Diary button on the homepage. 
+1. Wait until the simulator pop up, it might take few minutes, then you can see the homepage, click the Diary button on the homepage. 
 ![](../Screenshot/Diary/ButtonDiary.png)
 
 2. If it doesn't work or no calendar on the diary homepage or have error message such as no such module FSCalendar, open the terminal and follow the steps as below or check on this website https://cocoapods.org to install CocoaPods for running the calendar in the project.
@@ -78,9 +80,9 @@ https://swift.org/download/#releases
 
 4. Click the date with an expression (that is, the date of the added diary) to jump to the diary details interface. Display content, photos and mood. Click trash below to delete, click text icon will jump to the edit interface.  (The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you deletes diary) 
 ![](../Screenshot/Diary/Detail.png)
-![](../Screenshot/Diary/Edit.png)
 
 5. You can modify the content, picture and mood in the editing interface. After modification, click Save to jump back to the details interface. (The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you edit diary) 
+![](../Screenshot/Diary/Edit.png)
 ![](../Screenshot/Diary/EditMoodCalendar.png)
 
 
