@@ -8,7 +8,7 @@ https://swift.org/download/#releases
 
 ### Steps to install XCode (For macOS-Catalina version 10.15.4)
 
-1. Download the latest version of XCode 11.5
+1. Download the latest version of XCode
    From: https://swift.org/download/#releases
    or from App Store
 2. Follow the steps to install the XCode into application
@@ -20,10 +20,10 @@ https://swift.org/download/#releases
 
 ### Steps to run Reminder
 
-1. Open ***MyProject.xcworkspace*** as image below. XCode then will open the project.
+1. Open ***MyProject.xcworkspace*** as image below. XCode then will open the project. (Make sure open the **Xcode workspace** instead of the project file when building your project)
 ![](../Screenshot/Diary/FolderDiary.png)
 
-2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button.
+2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button. (Make sure you choose **MyProject** next **Run** button as the image below)
 ![](../Screenshot/Diary/RunDiary.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage, click the Reminder button on the page.
@@ -59,22 +59,30 @@ https://swift.org/download/#releases
 
 ### Steps to run Diary
 
-1. Open ***MyProject.xcworkspace*** as image below. XCode will open the project.
-![](../Screenshot/Diary/FolderDiary.png)
-
-2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button.
-![](../Screenshot/Diary/RunDiary.png)
-
-3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage, click the Diary button on the page.
+1. Click the Diary button on the homepage. 
 ![](../Screenshot/Diary/ButtonDiary.png)
 
-4. If it doesn't work or no calendar on the diary homepage, open the terminal and follow the steps to install CocoaPods for running the calendar in the project.https://cocoapods.org
+2. If it doesn't work or no calendar on the diary homepage or have error message such as no such module FSCalendar, open the terminal and follow the steps as below or check on this website https://cocoapods.org to install CocoaPods for running the calendar in the project.
+    
+    - Open terminal on your device and go to the folder where the MyProject belongs
+    - Install Cocoapods : $ sudo gem install cocoapods
+    - Install the dependencies in project, make sure you inside **“MyProject”** project folder before running this: $ pod install
+    - Make sure to always open the **“Xcode workspace”** instead of the project file when building project: $ open MyProject.xcworkspace
 
-5. In the upper right corner is the **+** button to add a new diary. Click on it to enter the interface to add a new diary. (It will be deleted later. The desired function is to click the date on the calendar, an inquiry box will pop up and the user can select the mood of the day. After selecting the date, it will jump to the diary writing interface.)
+3. In normal operation, the page displays the date of the current month. Click any date to add diary, you can choose to change the mood, add content and add pictures, click save to jump back to the calendar interface. 
+![](../Screenshot/Diary/Calendar.png)
 ![](../Screenshot/Diary/AddDiary.png)
 
-6. On the add diary page, it has *date*, *change mood name*, *mood image*, *write diary* and *add iamge* as image shown below. (click save button, back to diary homepage, the date of the day displays the previous emoji selected by the user, update later)
-![](../Screenshot/Diary/AddPageDiary.png)
+(The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you add diary) 
+![](../Screenshot/Diary/AddMoodCalendar.png)
+
+4. Click the date with an expression (that is, the date of the added diary) to jump to the diary details interface. Display content, photos and mood. Click trash below to delete, click text icon will jump to the edit interface.  (The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you deletes diary) 
+![](../Screenshot/Diary/Detail.png)
+![](../Screenshot/Diary/Edit.png)
+
+5. You can modify the content, picture and mood in the editing interface. After modification, click Save to jump back to the details interface. (The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you edit diary) 
+![](../Screenshot/Diary/EditMoodCalendar.png)
+
 
 ### Future Work
 
@@ -83,8 +91,8 @@ https://swift.org/download/#releases
 3. Update CoreData for Reminder **(Solved)**
 4. Improve Reminder interface     (0.5 - 1 week)
 5. Improve the diary interface     (0.5 - 1 week)
-6. Realize **Diary** functions - e.g. Add image function, input text function     (2 weeks)
-7. Improve Diary, test and fix bugs     (0.5 - 1 week)
+6. Realize **Diary** functions - e.g. Add image function, input text function    **(Solved)**
+7. Improve Diary, test and fix bugs     **(Solved)**
 8. Improve MyProject interface     (0.5 - 1 week)
 
 ### Reference
