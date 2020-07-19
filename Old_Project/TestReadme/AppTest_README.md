@@ -19,19 +19,19 @@ https://swift.org/download/#releases
 ### Steps to run XCode project
 
 1. Open ***AppTest.xcodeproj*** as image below. XCode then will open the project.
-![](.../Screenshot/AppTest/FolderAppTest.png)
+![](../../Screenshot/AppTest/FolderAppTest.png)
 
 2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button.
-![](.../Screenshot/AppTest/RunAppTest.png)
+![](../../Screenshot/AppTest/RunAppTest.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage of AppTest.
-![](.../Screenshot/AppTest/Simulator_AppTest.png)
+![](../../Screenshot/AppTest/Simulator_AppTest.png)
 
 4. At the top of the main page, there is a search bar.
-![](.../Screenshot/AppTest/Search_AppTest.png)
+![](../../Screenshot/AppTest/Search_AppTest.png)
 
 5. There are four buttons on the homepage to connect to the next interface.
-![](.../Screenshot/AppTest/Click_AppTest.png)
+![](../../Screenshot/AppTest/Click_AppTest.png)
 
 6. Take ***Diary*** as an example
-![](.../Screenshot/AppTest/Diary_AppTest.png)
+![](../../Screenshot/AppTest/Diary_AppTest.png)
