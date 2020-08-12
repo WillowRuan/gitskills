@@ -75,7 +75,7 @@ https://swift.org/download/#releases
 ![](../Screenshot/Diary/Calendar.png)
 ![](../Screenshot/Diary/AddDiary.png)
 
-(The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you add diary) 
+    (The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you add diary) 
 ![](../Screenshot/Diary/AddMoodCalendar.png)
 
 4. Click the date with an expression (that is, the date of the added diary) to jump to the diary details interface. Display content, photos and mood. Click trash below to delete, click text icon will jump to the edit interface.  (The Calendar page can not be refreshed automatically, need to back to the homepage to refresh it after you deletes diary) 
@@ -85,16 +85,42 @@ https://swift.org/download/#releases
 ![](../Screenshot/Diary/Edit.png)
 ![](../Screenshot/Diary/EditMoodCalendar.png)
 
+### Steps to run List
+---
+
+1. Wait until the simulator pop up, it might take few minutes, then you can see the homepage, click the List button on the homepage. 
+![](../Screenshot/List/ButtonList.png)
+
+2. The Homepage of List has three buttons: **To-Do List**, **Habit**, **Travel List**. Click to enter the Homepage of corresponding function.
+![](../Screenshot/List/ListHomePage.png)
+
+3. Click **To-Do List** button to jump to its home page. You can enter any backlog items in the **input box** at the top. Click **Add** on the right to see this item at the bottom, and click this item to delete it, indicating that the item has been completed.
+![](../Screenshot/List/ToDoHomePage.png)
+
+4. Click **Habit** button to jump to its home page. Click the **Add** button on the right to jump to the interface of adding new Habit. The search bar on the top can display the previously added search of Habit, and the bottom can display all the added habits. It is assumed that the 90-day cycle of habit-building is completed, and clicking every day reduces the number of clicks by one day, and can only be clicked once a day. 
+![](../Screenshot/List/HabitHomePage.png)
+
+5. In the add interface to Habit, you need to type **Title**, **Duration** and **Persistence**. If an item is missing, a prompt appears when you click add. At the same time, you can choose whether to need a reminder function in the bottom. Click to receive a reminder at 8:00 a.m. every day. 
+![](../Screenshot/List/HabitAdd.png)
+![](../Screenshot/List/HabitError.png)
+
+6. Click **Travel List** button to jump to its home page.  Click **Checklist** to display the list of travel documents and articles required for travel. Click **Add Place You Want To Go** to jump to the add place interface.
+![](../Screenshot/List/TravelHomePage.png)
+![](../Screenshot/List/CheckList.png)
+
+7. In the add places page, you can add **where you want to go(location)**, **budget**, **reason** and **date**. A prompt is displayed if an item is missing. Click **Save** to return to travel home page. The information just added is displayed at the bottom of the home page. Click it to view and edit. 
+![](../Screenshot/List/TravelEdit.png)
+![](../Screenshot/List/TravelAdd.png)
 
 ### Future Work
 
 1. Add the cancel and edit functions on the Reminder home page **(Solved)**
 2. Advance notification function in Reminder **(Solved)**
 3. Update CoreData for Reminder **(Solved)**
-4. Improve Reminder interface     (0.5 - 1 week)
-5. Improve the diary interface     (0.5 - 1 week)
-6. Realize **Diary** functions - e.g. Add image function, input text function    **(Solved)**
-7. Improve Diary, test and fix bugs     **(Solved)**
+4. Realize **Diary** functions - e.g. Add image function, input text function    **(Solved)**
+5. Improve Diary, test and fix bugs     **(Solved)**
+6. Realize **List** functions - e.g. To-Do List, Habit, Travel List     **(Solved)**
+7. Improve List, test and fix bugs     **(Solved)**
 8. Improve MyProject interface     (0.5 - 1 week)
 
 ### Reference
