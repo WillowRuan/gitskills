@@ -25,6 +25,7 @@ https://swift.org/download/#releases
 ![](../Screenshot/Diary/FolderDiary.png)
 
 2.  On the top left corner, select ***iPhone 11 Pro Max***, then click the run button. (Make sure you choose **MyProject** next **Run** button as the image below)
+
 ![](../Screenshot/Diary/RunDiary.png)
 
 3. Wait until the simulator pop up, it might take few minutes, then you can see the homepage, click the Reminder button on the page.
@@ -98,17 +99,20 @@ https://swift.org/download/#releases
 ![](../Screenshot/List/ToDoHomePage.png)
 
 4. Click **Habit** button to jump to its home page. Click the **Add** button on the right to jump to the interface of adding new Habit. The search bar on the top can display the previously added search of Habit, and the bottom can display all the added habits. It is assumed that the 90-day cycle of habit-building is completed, and clicking every day reduces the number of clicks by one day, and can only be clicked once a day. 
+
 ![](../Screenshot/List/HabitHomePage.png)
 
-5. In the add interface to Habit, you need to type **Title**, **Duration** and **Persistence**. If an item is missing, a prompt appears when you click add. At the same time, you can choose whether to need a reminder function in the bottom. Click to receive a reminder at 8:00 a.m. every day. 
+5. In the add interface to Habit, you need to type *Title*, *Duration* and *Persistence*. If an item is missing, a prompt appears when you click add. At the same time, you can choose whether to need a reminder function in the bottom. Click to receive a reminder at 8:00 a.m. every day. 
+
 ![](../Screenshot/List/HabitAdd.png)
 ![](../Screenshot/List/HabitError.png)
 
-6. Click **Travel List** button to jump to its home page.  Click **Checklist** to display the list of travel documents and articles required for travel. Click **Add Place You Want To Go** to jump to the add place interface.
-![](../Screenshot/List/TravelHomePage.png)
+6. Click **Travel List** button to jump to its home page.  Click *Checklist* to display the list of travel documents and articles required for travel. Click *Add Place You Want To Go* to jump to the add place interface.
+![](../Screenshot/List/TravelHomepage.png)
 ![](../Screenshot/List/CheckList.png)
 
-7. In the add places page, you can add **where you want to go(location)**, **budget**, **reason** and **date**. A prompt is displayed if an item is missing. Click **Save** to return to travel home page. The information just added is displayed at the bottom of the home page. Click it to view and edit. 
+7. In the add places page, you can add *where you want to go(location)*, *budget*, *reason* and *date*. A prompt is displayed if an item is missing. Click **Save** to return to travel home page. The information just added is displayed at the bottom of the home page. Click it to view and edit. 
+
 ![](../Screenshot/List/TravelEdit.png)
 ![](../Screenshot/List/TravelAdd.png)
 
